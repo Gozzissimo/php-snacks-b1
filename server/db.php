@@ -2,7 +2,7 @@
     $parcoAuto = [
         [
             'id' => 152234,
-            'foto' => '../img/polo-gti.jfif',
+            'foto' => 'img/missing-pic.jpg',
             'modello' => 'Polo',
             'data di produzione' => '2020/06/12',
             'numero di telaio' => 2497611752567,
@@ -31,7 +31,7 @@
         ],
         [
             'id' => 152235,
-            'foto' => '../img/passat-variant.jfif',
+            'foto' => 'img/passat-variant.jfif',
             'modello' => 'Passat Variant',
             'data di produzione' => '2019/03/18',
             'numero di telaio' => 2497611852567,
@@ -60,7 +60,7 @@
         ],
         [
             'id' => 152236,
-            'foto' => '../img/golf-8-GTD.jfif',
+            'foto' => 'img/golf-8-GTD.jfif',
             'modello' => 'Golf',
             'data di produzione' => '2021/07/30',
             'numero di telaio' => 3497611852567,
@@ -89,7 +89,7 @@
         ],
         [
             'id' => 152237,
-            'foto' => '../img/multivan.jfif',
+            'foto' => 'img/multivan.jfif',
             'modello' => 'Multivan',
             'data di produzione' => '2022/01/15',
             'numero di telaio' => 4497611852567,
@@ -118,7 +118,7 @@
         ],
         [
             'id' => 152238,
-            'foto' => '../img/id3.jfif',
+            'foto' => 'id3.jfif',
             'modello' => 'ID.3',
             'data di produzione' => '2021/09/27',
             'numero di telaio' => 3517611852567,
